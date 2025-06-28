@@ -6,3 +6,22 @@ In this guided project, you will learn how to clean your data sets and create ef
 Perform basic functions and generate basic charts to visualize data.
 Generate dynamic charts, sparklines and find duplicate data entries.
 Learn how to use slicers and create a robust and dynamic dashboard.
+
+# Project Structure
+The hands on project on Create Charts and Dashboard using Google Sheets is divided into following tasks:
+
+Task 1: Introduction + Log In to Google Sheets
+
+Task 2: Basic formulas in Google Sheets
+
+Task 3: Introducing 8 Basic Charts
+
+Task 4: Dynamic Charts
+
+Task 5: Sparklines
+
+Task 6: Building Dashboard Part 1 - Basic Charts
+
+Task 7: Building Dashboard Part 2 - Advanced Charts
+
+Task 8: Building Dashboard Part 3 - Slicers
