@@ -27,3 +27,55 @@ Task 6: Building Dashboard Part 1 - Basic Charts
 Task 7: Building Dashboard Part 2 - Advanced Charts
 
 Task 8: Building Dashboard Part 3 - Slicers
+
+
+
+# 🔷 Overall KPI
+Total Sales Revenue: $351,952.64
+
+# 📦 Product Line Performance (Quantity Ordered vs Sales Revenue)
+Top-Selling by Quantity: Classic Cars
+
+Top Revenue-Generating Product: Classic Cars
+
+Other Product Lines (in order of contribution):
+
+Motorcycles
+
+Vintage Cars
+
+Trucks and Buses
+
+Planes
+
+Ships
+
+Trains (lowest)
+
+# 🌍 Top Performing Countries (by Revenue)
+Country Revenue
+🇺🇸 USA $123,885.63
+🇫🇷 France $33,656.32
+🇪🇸 Spain $25,805.42
+🇦🇺 Australia $21,449.35
+🇳🇴 Norway $16,093.44
+
+Lowest Performing: Belgium ($3,348.46)
+
+# 👥 Top Sales Representatives
+Top Earner: Cristina H. (≈$35,000+ revenue)
+
+Other notable performers:
+
+Julie R.
+
+Leslie Y.
+
+Michael S.
+
+# 📅 Monthly Revenue Trend
+Peak Month: Month 11 (~$100,000+)
+
+Low Revenue Months: Month 1 to 3 (lowest activity)
+
+Trend Insight: Revenue increases significantly towards the end of the year.
