@@ -53,11 +53,17 @@ Ships
 Trains (lowest)
 
 # 🌍 Top Performing Countries (by Revenue)
+
 Country Revenue
+
 🇺🇸 USA $123,885.63
+
 🇫🇷 France $33,656.32
+
 🇪🇸 Spain $25,805.42
+
 🇦🇺 Australia $21,449.35
+
 🇳🇴 Norway $16,093.44
 
 Lowest Performing: Belgium ($3,348.46)
